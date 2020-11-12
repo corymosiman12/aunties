@@ -4,7 +4,7 @@ from typing import Tuple
 import yaml
 import requests
 
-import aunties.constants as ac
+import aunts.constants as ac
 
 
 def gdb_download_telemetry() -> None:
