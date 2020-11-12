@@ -1,4 +1,4 @@
-from aunties import __version__
+from aunts import __version__
 
 
 def test_version():
