@@ -6,6 +6,8 @@ authors = ["corymosiman12 <cory.mosiman12@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+requests = "^2.25.0"
+pyyaml = "^5.3.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

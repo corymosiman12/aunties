@@ -1,5 +1,9 @@
 .DS_Store
+.idea
 
 .venv
 *.egg-info
 __pycache__
+
+# Don't commit newly pulled down file
+aunties/files/telemetry_fields_new.yaml
